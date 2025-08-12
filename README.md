@@ -48,19 +48,19 @@ Currently pursuing **B.Tech in Computer Science Engineering** from **GMR Institu
 
 ## 🚀 Projects
 
-### 🔹 Doctor Appointment Website
+### 🔹 [Doctor Appointment Website](https://github.com/Naveena0306/Doctor_appointment_website)
 > **Tech:** React.js  
 > Built a healthcare appointment platform to schedule doctors, book medicines, and access lab services.
 
-### 🔹 [Ayush Startup Registration Portal](https://naveena0306.github.io/)
+### 🔹 [Ayush Startup Registration Portal](https://github.com/Naveena0306/Ayush_Registration_for_startups)
 > **Tech:** React.js, Node.js, Express.js, MySQL  
 > A full-stack portal to streamline online registration for AYUSH startups.
 
-### 🔹 Medicine Reminder & Tracker
+### 🔹 [Medicine Reminder & Tracker](https://github.com/Naveena0306/Medicine_remiander_and_tracker)
 > **Tech:** MongoDB, Express.js, React.js, Node.js (MERN)  
 > Assists patients in managing daily medication schedules with reminders and notifications.
 
-### 🔹 News Aggregator (MERN)
+### 🔹 [News Aggregator (MERN)](https://github.com/Naveena0306/News_Aggregator)
 > **Tech:** MERN Stack  
 > Delivers personalized news to users with weekly email digests based on their preferences.
 
@@ -71,7 +71,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** from **GMR Institu
   <a href="mailto:tnaveenaasp364@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/naveena-tankala-336302289/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Naveena0306" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://naveena0306.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://naveenatankala.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
